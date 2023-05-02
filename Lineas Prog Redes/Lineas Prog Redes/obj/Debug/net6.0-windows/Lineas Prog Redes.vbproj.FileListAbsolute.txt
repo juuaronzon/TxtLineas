@@ -1,0 +1,17 @@
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\bin\Debug\net6.0-windows\Lineas Prog Redes.exe
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\bin\Debug\net6.0-windows\Lineas Prog Redes.deps.json
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\bin\Debug\net6.0-windows\Lineas Prog Redes.runtimeconfig.json
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\bin\Debug\net6.0-windows\Lineas Prog Redes.dll
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\bin\Debug\net6.0-windows\Lineas Prog Redes.pdb
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.vbproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas_Prog_Redes.Form1.resources
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.vbproj.GenerateResource.cache
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.AssemblyInfoInputs.cache
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.AssemblyInfo.vb
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.vbproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.dll
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\refint\Lineas Prog Redes.dll
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.pdb
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\Lineas Prog Redes.genruntimeconfig.cache
+C:\Users\Administrador\Source\Repos\Lineas Prog Redes\Lineas Prog Redes\obj\Debug\net6.0-windows\ref\Lineas Prog Redes.dll
